@@ -1,2 +1,2 @@
 # YamalABM
-All these related to ABM modeling in Yamal Area
+All things related to ABM modeling in Yamal Area
